@@ -1,3 +1,2 @@
 # my-registration-form
-my-registration-form
-/README.md
+registration form.html
